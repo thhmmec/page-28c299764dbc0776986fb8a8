@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "3dec01a08f4da4e1098312b7",
+  "owner": "thhmmec",
+  "repo": "page-28c299764dbc0776986fb8a8",
+  "title": "秒秒云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "28c299764dbc0776986fb8a8",
+      "a": "秒秒云",
+      "b": "",
+      "entity": "秒秒云",
+      "brand": "秒秒云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "693cd9bff6903e5f44c0d8dbe274845f981fc83f3e4f2b6407c752d1c7daf2b1",
+      "content": {
+        "keyword1": "秒秒云",
+        "keyword2": "",
+        "primary_entity": "秒秒云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "秒秒云：咱们先按时间线把事情摊开——额度怎么选、两栏套餐怎么对照、客户端从哪入手、常见疑问用对话气泡慢慢答。",
+          "AI_DESCRIPTION": "秒秒云：咱们先按时间线把事情摊开——额度怎么选、两栏套餐怎么对照、客户端从哪入手、常见疑问用对话气泡慢慢答。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{height:100%;background:#111;color:#e8e8e8;font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Noto Sans SC\",\"Microsoft YaHei\",sans-serif;line-height:1.7}\na{color:#e8e8e8;text-decoration:none}\na:hover{color:#ff5a1f}\n.wrap{display:flex;min-height:100%}\nnav.side{width:168px;flex-shrink:0;border-right:4px solid #fff;background:#000;padding:28px 16px;position:sticky;top:0;height:100vh}\nnav.side strong{display:block;font-size:13px;letter-spacing:.2em;color:#888;margin-bottom:22px}\nnav.side ol{list-style:none}\nnav.side li{margin:0 0 14px}\nnav.side a{display:block;border:3px solid #fff;padding:8px 10px;font-size:13px}\nmain{flex:1;padding:28px 8vw 80px 40px;max-width:1100px}\nh1{font-size:clamp(40px,8vw,84px);line-height:.95;font-weight:800;letter-spacing:-.03em;color:#fff;margin:0 0 28px}\nh2{font-size:26px;color:#fff;margin:56px 0 18px;border-left:8px solid #ff5a1f;padding-left:12px}\nh3{font-size:18px;color:#fff;margin:22px 0 10px}\np,li{font-size:16px;color:#cfcfcf}\n.lead{max-width:42em;margin-bottom:36px}\n.timeline{border-left:4px solid #fff;padding:0 0 8px 28px}\n.tl{position:relative;margin:0 0 28px}\n.tl:before{content:\"\";position:absolute;left:-38px;top:6px;width:16px;height:16px;background:#ff5a1f;border:3px solid #fff}\n.tl time{display:block;font-size:12px;letter-spacing:.16em;color:#888;margin-bottom:6px}\n.card{border:4px solid #fff;padding:18px 20px;margin:0 0 16px;background:#1a1a1a}\n.plans{display:grid;grid-template-columns:1fr 1fr;gap:18px;align-items:stretch}\n.plan{border:4px solid #fff;padding:22px;background:#000;position:relative}\n.plan.feat{outline:6px solid #ff5a1f;outline-offset:4px}\n.badge{display:inline-block;background:#ff5a1f;color:#000;font-weight:700;font-size:12px;padding:3px 8px;margin-bottom:10px}\n.price{font-size:28px;color:#fff;margin:8px 0}\n.price small{font-size:14px;color:#999;display:block}\n.plan ul{margin:12px 0 0 18px}\n.how ol{margin:8px 0 0 22px}\n.bubbles{max-width:640px}\n.q,.a{border:4px solid #fff;padding:14px 16px;margin:0 0 12px;max-width:92%}\n.q{background:#222;margin-right:auto}\n.a{background:#000;margin-left:auto;border-color:#ff5a1f}\n.q b,.a b{display:block;font-size:12px;color:#888;margin-bottom:4px}\n.clients .card p{margin-top:8px}\nfooter{margin-top:64px;border-top:4px solid #fff;padding-top:16px;font-size:13px;color:#777}\n@media(max-width:820px){\n.wrap{display:block}\nnav.side{position:relative;height:auto;width:100%;border-right:none;border-bottom:4px solid #fff}\nnav.side ol{display:flex;flex-wrap:wrap;gap:8px}\nnav.side li{margin:0}\nmain{padding:24px 16px 64px}\n.plans{grid-template-columns:1fr}\n}\n</style><div class=\"wrap\">\n<nav class=\"side\" aria-label=\"目录\">\n<strong>秒秒云</strong>\n<ol>\n<li><a href=\"#top\">开场</a></li>\n<li><a href=\"#how\">怎么用</a></li>\n<li><a href=\"#plans\">两栏对照</a></li>\n<li><a href=\"#clients\">客户端</a></li>\n<li><a href=\"#faq\">问答气泡</a></li>\n</ol>\n</nav>\n<main id=\"top\">\n<h1>秒秒云</h1>\n<p class=\"lead\">嘿，先别急着翻价目。我想带你顺着一条竖着的时间线走一遍：从“为什么会出现这个名字”，到“额度怎么选”，再到“装在哪台设备上”。没有口号堆砌，就是把能写进页面的事讲清楚。</p>\n<div class=\"timeline\">\n<article class=\"tl\">\n<time>第一步 · 认识</time>\n<h2>秒秒云是这页的主角</h2>\n<p>公开资料里没有更多官方履历可核对，所以我不会替它编身份、编节点数、编口碑。你现在看到的，是把套餐名、月费、年付提示和权益条目摊在桌上，方便你对照自己的用量。</p>\n</article>\n<article class=\"tl\">\n<time>第二步 · 额度</time>\n<p>基础、旗舰、团队三档，差别主要在每月流量上限、同时在线台数，以及流媒体、线路、工单这类条目写没写进该档。后文用两栏对照，旗舰版会标出推荐记号。</p>\n</article>\n<article class=\"tl\">\n<time>第三步 · 上手</time>\n<p>先选定档，再按使用说明把客户端装到你真正要用的设备上。下载地址这边没有可核验的来源，所以链接先留空，不假装能点下去。</p>\n</article>\n<article class=\"tl\">\n<time>第四步 · 疑问</time>\n<p>底部用对话气泡把朋友之间会问的几句写出来。答得克制：没有的事实不硬编。</p>\n</article>\n</div>\n\n<section id=\"how\">\n<h2>使用说明</h2>\n<div class=\"card\">\n<h3>我建议你按这个顺序</h3>\n<ol class=\"how\">\n<li>看自己一个月大概会烧掉多少流量、几台设备会同时开着。</li>\n<li>到「两栏对照」里把基础版和旗舰版并排放，团队版单独看人数上限。</li>\n<li>记下你选的那一档名称和月费/年付提示，付款渠道以你实际拿到的账单为准——这页不伪造交易入口。</li>\n<li>打开客户端区块，按系统找说明；没有可靠下载地址时，请向你购买时的客服或账单页索取安装包。</li>\n<li>装好后先确认登录账号与所选套餐一致，再把常用应用放进同一台设备试一天，感觉用量对不对。</li>\n</ol>\n</div>\n<div class=\"card\">\n<h3>相处时的小提醒</h3>\n<p>流量是按月写进套餐的，超了怎么办、能不能退，这页没有可引用的规则，别听我瞎保证。工单优先级只在旗舰版条目里出现过，团队版写的是客户经理——具体响应速度我同样没法编。</p>\n</div>\n</section>\n\n<section id=\"plans\">\n<h2>两栏对照 · 套餐</h2>\n<p>左边基础，右边旗舰并标推荐。团队版放在对照下方，避免硬塞进同一格。</p>\n<div class=\"plans\">\n<article class=\"plan\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月 <small>按年付仅需 ¥150/年</small></p>\n<ul>\n<li>每月 100GB 流量额度</li>\n<li>最多 3 台设备同时在线</li>\n<li>基础流媒体条目</li>\n<li>普通线路节点池（以套餐文案为准，不另夸性能）</li>\n</ul>\n</article>\n<article class=\"plan feat\">\n<p class=\"badge\">推荐对照</p>\n<h3>旗舰版</h3>\n<p class=\"price\">¥35/月 <small>按年付仅需 ¥350/年</small></p>\n<ul>\n<li>每月 300GB 流量额度</li>\n<li>最多 5 台设备同时在线</li>\n<li>文案中的全节点原生流媒体条目</li>\n<li>文案中的 IPLC 游戏向优化条目</li>\n<li>7x24 优先工单（规则细节未另附）</li>\n</ul>\n</article>\n</div>\n<article class=\"plan\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月 <small>按年付仅需 ¥850/年</small></p>\n<ul>\n<li>每月 1000GB 流量额度</li>\n<li>最多 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点（仅作套餐条目展示）</li>\n<li>企业定制路由条目</li>\n<li>专属客户经理条目</li>\n</ul>\n</article>\n</section>\n\n<section id=\"clients\" class=\"clients\">\n<h2>客户端从哪来</h2>\n<p>目前没有可核验的官方下载列表。下面用粗描边卡片把常见系统点名，地址一律留空，避免假链接。</p>\n<div class=\"card\">\n<h3>桌面</h3>\n<p>Windows / macOS：请向账单或客服索取安装包。地址：无可靠来源。</p>\n</div>\n<div class=\"card\">\n<h3>移动</h3>\n<p>iOS / Android：商店上架情况未提供，不臆造兼容列表。地址：无可靠来源。</p>\n</div>\n<div class=\"card\">\n<h3>其他</h3>\n<p>路由器或命令行客户端同样没有公开链接可写。url 留空。</p>\n</div>\n</section>\n\n<section id=\"faq\">\n<h2>常见问题</h2>\n<div class=\"bubbles\">\n<article class=\"q\"><b>你</b><p>基础版和旗舰版我该看哪几个数字？</p></article>\n<article class=\"a\"><b>秒秒云页的朋友</b><p>先看每月流量和同时在线台数：100GB/3 台对 300GB/5 台。流媒体和工单条目只写在旗舰里，别把没写的权益脑补进去。</p></article>\n<article class=\"q\"><b>你</b><p>团队版是不是必须公司抬头？</p></article>\n<article class=\"a\"><b>秒秒云页的朋友</b><p>页面只写了 20 台、1000GB 和客户经理条目，没有说明开票主体或合同模板。需要对公时，问实际收款方，别拿这页当合同。</p></article>\n<article class=\"q\"><b>你</b><p>客户端点哪里下载？</p></article>\n<article class=\"a\"><b>秒秒云页的朋友</b><p>我这边没有可核对的地址，所以不放假按钮。你从购买渠道要安装包最稳。</p></article>\n<article class=\"q\"><b>你</b><p>年付比月付便宜多少？</p></article>\n<article class=\"a\"><b>秒秒云页的朋友</b><p>按写出来的数字：基础 15×12 对 150，旗舰 35×12 对 350，团队 85×12 对 850。是否还能叠加别的优惠，这页没写。</p></article>\n</div>\n</section>\n<footer>秒秒云静态说明页 · 仅展示已给出的套餐条目 · 无脚本无外链资源</footer>\n</main>\n</div>",
+          "hash": "97b28847d5849b43ccb85d770be3263ab758605a07f8e0448f94f82ba77c6d72",
+          "seo": {
+            "title": "秒秒云｜把每月额度讲清楚的朋友式说明页",
+            "keywords": "秒秒云,基础版,旗舰版,团队版,额度说明,客户端入口",
+            "description": "秒秒云：咱们先按时间线把事情摊开——额度怎么选、两栏套餐怎么对照、客户端从哪入手、常见疑问用对话气泡慢慢答。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "5389",
+            "hero": "6 纵向时间线引入",
+            "palette": "10 黑白灰单色配一处强调色",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "5 两栏对照配推荐标记",
+            "faq_view": "5 对话气泡式问答",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ecmen.cn",
+    "host": "p-6eaa55cd6a.ecmen.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "69a40d220156492df8fea6f7287dff76a3dcbafc3af50f11c699582375145beb",
+    "sitemap.xml": "da028a6db16e7a6949b7c6dc9eb02b9b25aea6a6f1ea6df3c91c025af110c153",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "729fb17d7b5cce60e8626b45e200ee8e97569b973369f68229f89e9fbb313a54",
+    "robots.txt": "6551167a07987bfb5dbe251cba36efc5724f8102c1385d2c5b1fdfa46db50fbb",
+    "a7b8468de42dd5199ac598eb0d7a5ab9.txt": "8fe1f24eb10493fd16c2aaded6a1210719b07b95c99be83e9a4b51bf7d371113"
+  },
+  "revision": "0e02284c61eb0117b09fb6482003ed9c0e2ab5f02be192837fa58a417b19b89f"
+}
